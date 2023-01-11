@@ -1,0 +1,21 @@
+{
+  "name": "sesiro-deposit-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deposit_monitor.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^5.0.2",
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.2",
+    "node-fetch": "^3.0.0",
+    "node-schedule": "^2.0.0",
+    "tronweb": "^4.0.0"
+  }
+}
